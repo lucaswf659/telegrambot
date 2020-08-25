@@ -21,7 +21,8 @@
   "homepage": "https://github.com/lucaswf659/telegrambot#readme",
   "dependencies": {
     "axios": "^0.20.0",
-    "telegraf": "^3.38.0"
+    "telegraf": "^3.38.0",
+    "telegram-typings": "^4.0.0-beta"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.10.1",
